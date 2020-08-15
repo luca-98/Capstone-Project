@@ -6,7 +6,8 @@
     justify-content: center;
     overflow: hidden;
 }
-.navbar-brand{
+
+.navbar-brand {
     font-size: 40px;
 }
 
@@ -24,23 +25,27 @@
     padding-bottom: 150px;
     margin-bottom: 0;
 }
-.navbar{
+
+.navbar {
     padding-left: 0;
 }
 
 .stylish-color-dark {
     background-color: #3e4551 !important;
 }
+
 .btn-floating i {
     display: inline-block;
     width: inherit;
     color: #fff;
     text-align: center;
 }
+
 .btn-floating i {
     font-size: 1.25rem;
     line-height: 47px;
 }
+
 .btn-floating {
     position: relative;
     z-index: 1;
@@ -51,37 +56,53 @@
     vertical-align: middle;
     cursor: pointer;
     border-radius: 50%;
-    -webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
-    box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18), 0 4px 15px 0 rgba(0,0,0,0.15);
+    -webkit-box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
     width: 47px;
     height: 47px;
 }
+
 .btn-dribbble {
     color: #fff;
     background-color: #ec4a89 !important;
 }
+
 .btn-li {
     color: #fff;
     background-color: #0082ca !important;
 }
+
 .btn-gplus {
     color: #fff;
     background-color: #dd4b39 !important;
 }
+
 .btn-tw {
     color: #fff;
     background-color: #55acee !important;
 }
+
 .btn-fb {
     color: #fff;
     background-color: #3b5998 !important;
 }
+
 footer.page-footer .footer-copyright {
     overflow: hidden;
-    color: rgba(255,255,255,0.6);
-    background-color: rgba(0,0,0,0.2);
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.font-small {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: white;
+}
+
+.font-small a {
+    color: white;
 }
 
 
