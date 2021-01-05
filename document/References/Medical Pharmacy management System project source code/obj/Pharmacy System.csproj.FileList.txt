@@ -1,0 +1,31 @@
+bin\Debug\Pharmacy System.exe
+bin\Debug\Pharmacy System.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\databaseC.CrystalReport1.rpt
+obj\Debug\databaseC.CrystalReport2.rpt
+obj\Debug\databaseC.CrystalReport3.rpt
+obj\Debug\databaseC.CrystalReport4.rpt
+obj\Debug\databaseC.CrystalReport5.rpt
+obj\Debug\databaseC.about.resources
+obj\Debug\databaseC.login.resources
+obj\Debug\databaseC.loginadd.resources
+obj\Debug\databaseC.Purchase1.resources
+obj\Debug\databaseC.Bill.resources
+obj\Debug\databaseC.purchasedetails.resources
+obj\Debug\databaseC.returnreport.resources
+obj\Debug\databaseC.salesreport.resources
+obj\Debug\databaseC.Stockdetails.resources
+obj\Debug\databaseC.Return.resources
+obj\Debug\databaseC.Returndetails.resources
+obj\Debug\databaseC.Transaction.resources
+obj\Debug\databaseC.Form7.resources
+obj\Debug\databaseC.Purchasereport.resources
+obj\Debug\databaseC.main.resources
+obj\Debug\databaseC.Properties.Resources.resources
+obj\Debug\Pharmacy System.csproj.GenerateResource.Cache
+obj\Debug\Pharmacy System.exe
+obj\Debug\Pharmacy System.pdb
+obj\Debug\databaseC.CrystalReport6.rpt
+obj\Debug\databaseC.custtomer_medicine_return.resources
+obj\Debug\databaseC.Form1.resources
+obj\Debug\databaseC.Backup.resources
